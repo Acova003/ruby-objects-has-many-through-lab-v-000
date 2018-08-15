@@ -19,4 +19,6 @@ class Doctor
       appointment.doctor == self
     end 
   end
+  
+  
 end 
