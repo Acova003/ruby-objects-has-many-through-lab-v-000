@@ -7,7 +7,7 @@ class Doctor
   def initialize(name)
     @name = name 
     @@all << self
-    binding.pry
+    #binding.pry
   end 
   
   def new_appointment(patient, date)
